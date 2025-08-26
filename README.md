@@ -244,7 +244,7 @@ stages:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/lakshitcodes/Brain-Tumor-MRI-Classification.git
+   git clone https://github.com/NerdNikhil/Brain-Tumor-MRI-Classification.git
    cd Brain-Tumor-MRI-Classification
    ```
 2. **Install dependencies:**
@@ -279,8 +279,8 @@ stages:
 
 ## Contact
 
-- **Author**: Lakshit Jain
-- **LinkedIn**: [Lakshit Jain](https://www.linkedin.com/in/lakshitcodes/)
-- **GitHub**: [lakshitcodes](https://github.com/lakshitcodes)
+- **Author**:  Nikhil Singh
+- **LinkedIn**: [Nikhil Singh](https://www.linkedin.com/in/nikhilll9/)
+- **GitHub**: [NerdNikhil](https://github.com/NerdNikhil)
 
 ---
